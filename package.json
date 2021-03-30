@@ -115,7 +115,7 @@
     ]
   },
   "devDependencies": {
-    "jshint": "~1.1.0",
+    "jshint": "~2.7.0",
     "mocha": "~1.8.0",
     "requirejs": "^2.3.2",
     "uglify-js": "~2.7.5",
