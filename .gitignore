@@ -1,5 +1,9 @@
 node_modules/
 npm-debug.log
+playwright-report/
+test-results/
+.nyc_output/
+coverage/
 
 ### vim ###
 .*.s[a-w][a-z]
